@@ -111,7 +111,6 @@
             this.CellsTable.Location = new System.Drawing.Point(173, 12);
             this.CellsTable.MultiSelect = false;
             this.CellsTable.Name = "CellsTable";
-            this.CellsTable.ReadOnly = true;
             this.CellsTable.RowHeadersWidth = 10;
             this.CellsTable.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.CellsTable.ShowEditingIcon = false;
@@ -123,79 +122,66 @@
             // 
             this.Time.HeaderText = "Time";
             this.Time.Name = "Time";
-            this.Time.ReadOnly = true;
             // 
             // Cell1
             // 
             this.Cell1.HeaderText = "";
             this.Cell1.Name = "Cell1";
-            this.Cell1.ReadOnly = true;
             // 
             // Cell2
             // 
             this.Cell2.HeaderText = "";
             this.Cell2.Name = "Cell2";
-            this.Cell2.ReadOnly = true;
             // 
             // Cell3
             // 
             this.Cell3.HeaderText = "";
             this.Cell3.Name = "Cell3";
-            this.Cell3.ReadOnly = true;
             // 
             // Cell4
             // 
             this.Cell4.HeaderText = "";
             this.Cell4.Name = "Cell4";
-            this.Cell4.ReadOnly = true;
             // 
             // Cell5
             // 
             this.Cell5.HeaderText = "";
             this.Cell5.Name = "Cell5";
-            this.Cell5.ReadOnly = true;
             // 
             // Cell6
             // 
             this.Cell6.HeaderText = "";
             this.Cell6.Name = "Cell6";
-            this.Cell6.ReadOnly = true;
             // 
             // Cell7
             // 
             this.Cell7.HeaderText = "";
             this.Cell7.Name = "Cell7";
-            this.Cell7.ReadOnly = true;
             // 
             // Cell8
             // 
             this.Cell8.HeaderText = "";
             this.Cell8.Name = "Cell8";
-            this.Cell8.ReadOnly = true;
             // 
             // Cell9
             // 
             this.Cell9.HeaderText = "";
             this.Cell9.Name = "Cell9";
-            this.Cell9.ReadOnly = true;
             // 
             // Cell10
             // 
             this.Cell10.HeaderText = "";
             this.Cell10.Name = "Cell10";
-            this.Cell10.ReadOnly = true;
             // 
             // Cell11
             // 
             this.Cell11.HeaderText = "";
             this.Cell11.Name = "Cell11";
-            this.Cell11.ReadOnly = true;
             // 
             // Cell12
             // 
             this.Cell12.HeaderText = "";
             this.Cell12.Name = "Cell12";
-            this.Cell12.ReadOnly = true;
             // 
             // timer1
             // 
